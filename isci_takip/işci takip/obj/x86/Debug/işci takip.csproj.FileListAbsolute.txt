@@ -1,0 +1,58 @@
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\bin\Debug\işci takip.exe
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\bin\Debug\işci takip.pdb
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\obj\x86\Debug\işci_takip.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\obj\x86\Debug\işci_takip.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\obj\x86\Debug\işci takip.csproj.GenerateResource.Cache
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\obj\x86\Debug\işci takip.exe
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\obj\x86\Debug\işci takip.pdb
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\DangerOusMaN32\Desktop\işci takip\işci takip\obj\x86\Debug\işci takip.csproj.ResolveComReference.cache
+d:\user\desktop\işci takip\işci takip\obj\x86\Debug\işci takip.exe
+d:\user\desktop\işci takip\işci takip\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\user\desktop\işci takip\işci takip\obj\x86\Debug\işci_takip.Form1.resources
+d:\user\desktop\işci takip\işci takip\obj\x86\Debug\işci_takip.Properties.Resources.resources
+d:\user\desktop\işci takip\işci takip\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\user\desktop\işci takip\işci takip\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\user\desktop\işci takip\işci takip\bin\Debug\işci takip.exe
+d:\user\desktop\işci takip\işci takip\bin\Debug\işci takip.pdb
+d:\user\desktop\işci takip\işci takip\obj\x86\Debug\işci takip.pdb
+d:\user\desktop\işci takip2\işci takip\obj\x86\Debug\işci takip.exe
+d:\user\desktop\işci takip2\işci takip\obj\x86\Debug\işci takip.pdb
+d:\user\desktop\işci takip2\işci takip\bin\Debug\işci takip.exe
+d:\user\desktop\işci takip2\işci takip\bin\Debug\işci takip.pdb
+d:\user\desktop\işci takip2\işci takip\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\user\desktop\işci takip2\işci takip\obj\x86\Debug\işci_takip.Form1.resources
+d:\user\desktop\işci takip2\işci takip\obj\x86\Debug\işci_takip.Properties.Resources.resources
+d:\user\desktop\işci takip2\işci takip\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\user\desktop\işci takip2\işci takip\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\user\desktop\Yeni klasör\işci takip2\işci takip\obj\x86\Debug\işci takip.exe
+d:\user\desktop\Yeni klasör\işci takip2\işci takip\obj\x86\Debug\işci takip.pdb
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\obj\x86\Debug\işci takip.exe
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\obj\x86\Debug\işci takip.pdb
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\bin\Debug\işci takip.exe
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\bin\Debug\işci takip.pdb
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\obj\x86\Debug\işci_takip.Form1.resources
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\obj\x86\Debug\işci_takip.Properties.Resources.resources
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\user\desktop\Aziz -2\Yeni klasörfgğgfğı\işci takip2\işci takip\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.exe
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.pdb
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\bin\Debug\işci takip.exe
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\bin\Debug\işci takip.pdb
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\obj\x86\Debug\işci_takip.Form1.resources
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\obj\x86\Debug\işci_takip.Properties.Resources.resources
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.csproj.GenerateResource.Cache
+C:\Users\_DangerOusMaN\Desktop\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.csprojResolveAssemblyReference.cache
+E:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.exe
+E:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.pdb
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.exe
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.pdb
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\bin\Debug\işci takip.exe
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\bin\Debug\işci takip.pdb
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.csprojResolveAssemblyReference.cache
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci_takip.Form1.resources
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci_takip.Properties.Resources.resources
+F:\Programlarım\c# Veritabanı\azz\işci takip2\işci takip\obj\x86\Debug\işci takip.csproj.GenerateResource.Cache
+X:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\işci takip2\işci takip\obj\x86\Debug\işci takip.exe
+X:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\işci takip2\işci takip\obj\x86\Debug\işci takip.pdb
